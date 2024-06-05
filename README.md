@@ -22,6 +22,6 @@ Soy desarrollador de software con experiencia en desarrollo web, especialmente e
 ![Profile Views](https://komarev.com/ghpvc/?username=armandls&color=green)
 
 ## 📫 Contacto
-- [LinkedIn](linkedin.com/in/armand-lópez-sanmartín-2485b5241)
+- [LinkedIn](http://linkedin.com/in/armand-lópez-sanmartín-2485b5241)
 - [Twitter](https://twitter.com/_NeonVortex_)
-- [Correo Electrónico](armand15062003@gmail.com)
+- [Correo Electrónico](mailto:armand15062003@gmail.com)

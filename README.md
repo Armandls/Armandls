@@ -1,4 +1,4 @@
-# Hola, soy Armando López 👋
+# Hola, soy Armand López 👋
 
 Soy desarrollador de software con experiencia en desarrollo web, especialmente en el backend. Me apasiona la inteligencia artificial y disfruto trabajando en proyectos de análisis de datos y creación de aplicaciones web escalables.
 

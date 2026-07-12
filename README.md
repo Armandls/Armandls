@@ -26,7 +26,7 @@ Computer Engineer focused on **cybersecurity**, with hands-on experience in **cl
 
 I'm especially interested in **offensive security, penetration testing, and red teaming**, aiming to understand both the attacker and defender sides. My approach is **hands-on**: I build my own security tooling (honeypots, vulnerability scanners, secure authentication systems) and constantly experiment with new defense techniques and security frameworks.
 
-- 🎯 **Open to work** — looking for a role in offensive security, vulnerability analysis, malware analysis, reverse engineering, or threat intelligence.
+- 🎯 **Always learning & building** — breaking and building security tools; focused on offensive security, vulnerability analysis, malware analysis, reverse engineering, and threat intelligence.
 - 🌍 Barcelona, Spain — On-site / Hybrid
 - 🗣️ Catalan · Spanish · English
 

@@ -125,18 +125,6 @@ I'm especially interested in **offensive security, penetration testing, and red 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Armandls&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Armandls&color=2f7bbf&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
----
-
 ## 📫 Let's connect
 
 <p align="center">

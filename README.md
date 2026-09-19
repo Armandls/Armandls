@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F7BBF&center=true&vCenter=true&width=650&lines=Computer+Engineer+%C2%B7+Cybersecurity;Cloud+Security+%40+IBM;Threat+Intelligence+%7C+CNAPP+%7C+PAM;Offensive+Security+%26+Pentesting+enthusiast;I+build+my+own+security+tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F7BBF&center=true&vCenter=true&width=650&lines=Computer+Engineer+%C2%B7+Cybersecurity;Security+Consultant+%40+IBM;Threat+Intelligence+%7C+CNAPP+%7C+PAM;Offensive+Security+%26+Pentesting+enthusiast;I+build+my+own+security+tooling" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,7 +34,8 @@ I'm especially interested in **offensive security, penetration testing, and red 
 
 ## 🚀 What I'm doing now
 
-- 🛡️ **Cloud Security & Threat Intelligence @ IBM** — working with Prisma Cloud (CNAPP/CWPP) on cloud security posture, continuous monitoring, and risk assessment across multi-cloud environments in the **financial sector** (client: Bankinter). Contributing to Cloud Center of Excellence work on Google Cloud security controls (VPC Service Controls).
+- 🛡️ **Security Consultant @ IBM** — cybersecurity consulting on cloud security posture, threat detection, risk management and regulatory compliance in the **financial sector**: Prisma Cloud (CNAPP/CWPP) across multi-cloud infrastructures, Google Cloud security controls with **VPC Service Controls (VPC-SC)**, and continuous monitoring with threat-prevention automation.
+- 🎓 **MSc in Cybersecurity @ La Salle Campus Barcelona** — started Oct 2026, running through Jul 2027.
 - 🔐 **Building my own infrastructure** — a self-hosted WireGuard VPN with private DNS, and a fully scripted Arch Linux + Hyprland setup with UKI and TPM2 measured boot.
 - 🎯 **Growing towards offensive security** — deepening pentesting, vulnerability analysis, malware analysis, and reverse engineering.
 
@@ -44,11 +45,14 @@ I'm especially interested in **offensive security, penetration testing, and red 
 
 | Role | Where | When |
 |------|-------|------|
-| Cloud Security & Threat Intelligence | **IBM** — financial sector (Bankinter) | Oct 2025 — Present |
-| Researcher — Medical IoT security (Bachelor's thesis) | **IoTiCAT**, La Salle BCN | Sep 2025 — Jul 2026 |
+| Security Consultant — cloud security posture, CNAPP/CWPP, VPC-SC | **IBM** — financial sector | Oct 2026 — Present |
+| Intern — Early Associate Internship Program, cloud security & threat intelligence | **IBM** — financial sector | Oct 2025 — Sep 2026 |
+| IoT Cybersecurity Researcher — medical IoT security (Bachelor's thesis) | **IoTiCAT**, La Salle BCN | Sep 2025 — Jul 2026 |
 | Head Teaching Assistant — Digital Systems & Microprocessors (300+ students) | **La Salle BCN** | Jul 2025 — Jul 2026 |
-| Privileged Access Security — CyberArk & SailPoint PAM | **Accenture** — pharma (Almirall) | Oct 2024 — Apr 2025 |
+| Privileged Access Security — CyberArk & SailPoint PAM | **Accenture** — pharmaceutical sector | Oct 2024 — Apr 2025 |
 | Teaching Assistant — Programming & Digital Systems | **La Salle BCN** | Sep 2023 — Jun 2025 |
+
+🎓 **MSc in Cybersecurity** — La Salle Campus Barcelona, Universitat Ramon Llull (Oct 2026 — Jul 2027)
 
 🎓 **BSc Computer Engineering** — La Salle Campus Barcelona, Universitat Ramon Llull (2021 — 2026)
 
@@ -108,7 +112,7 @@ I'm especially interested in **offensive security, penetration testing, and red 
 - 🔎 **[CyberScope](https://github.com/Armandls/CyberScope)** — Terminal-based security toolkit in Python: a TCP port scanner with HTML/CSV reports, an FTP honeypot that logs activity and flags connection and command floods, and a Fernet-encrypted password manager. Roadmap: SSH honeypot + advanced analytics.
 - 🔐 **[myVPN](https://github.com/Armandls/myVPN)** — Self-hosted WireGuard VPN in daily use: hub-and-spoke through my own VPS to reach my home LAN and route traffic out, with **zero ports opened on the home router** (a Raspberry Pi holds an outbound reverse tunnel). Pi-hole + Unbound for private, filtered DNS. Every goal verified with evidence, plus full setup and troubleshooting docs.
 - 🐧 **[dotfiles](https://github.com/Armandls/dotfiles)** — My Arch Linux + Hyprland (Wayland) setup on an ASUS laptop with hybrid graphics: boot via **UKI with TPM2 and measured boot**, session managed by uwsm, Hyprland configured in Lua, Nord themed across GTK and Qt, managed with GNU Stow.
-- 🏥 **Hybrid Security Standard for Medical IoT (MQTT)** — Bachelor's thesis @ IoTiCAT: TLS 1.3 + AES-128 framework for secure medical data transmission over resource-constrained IoT, with pentesting experiments (sniffing, MITM) and GDPR alignment. *(academic, not public)*
+- 🏥 **Hybrid Security Standard for Medical IoT (MQTT)** — Bachelor's thesis @ IoTiCAT, presented and approved (Jul 2026): TLS 1.3 + AES-128 framework for secure medical data transmission over resource-constrained IoT, with pentesting experiments (sniffing, MITM), Wazuh as the SIEM layer and GDPR alignment. *(academic, not public)*
 
 > Some university work — full-methodology pentests, fault-tolerant distributed systems in C, low-level filesystems (EXT2/FAT16) — lives in private repositories. Happy to walk through any of it.
 

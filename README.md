@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Armand López 👋</h1>
 
 <p align="center">
-  <b>Computer Engineer · Cybersecurity</b> · Cloud Security · Threat Intelligence · Offensive Security
+  <b>Computer Engineer · Cybersecurity</b>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ I'm especially interested in **offensive security, penetration testing, and red 
 
 ## 🚀 What I'm doing now
 
-- 🛡️ **Security Consultant @ IBM** — cybersecurity consulting on cloud security posture, threat detection, risk management and regulatory compliance in the **financial sector**: Prisma Cloud (CNAPP/CWPP) across multi-cloud infrastructures, Google Cloud security controls with **VPC Service Controls (VPC-SC)**, and continuous monitoring with threat-prevention automation.
+- 🛡️ **Security Consultant @ IBM** — cybersecurity consulting on cloud security posture, threat detection, risk management and regulatory compliance in highly regulated environments: Prisma Cloud (CNAPP/CWPP) across multi-cloud infrastructures, Google Cloud security controls with **VPC Service Controls (VPC-SC)**, and continuous monitoring with threat-prevention automation.
 - 🎓 **MSc in Cybersecurity @ La Salle Campus Barcelona** — started Oct 2026, running through Jul 2027.
 - 🔐 **Building my own infrastructure** — a self-hosted WireGuard VPN with private DNS, and a fully scripted Arch Linux + Hyprland setup with UKI and TPM2 measured boot.
 - 🎯 **Growing towards offensive security** — deepening pentesting, vulnerability analysis, malware analysis, and reverse engineering.
@@ -45,11 +45,11 @@ I'm especially interested in **offensive security, penetration testing, and red 
 
 | Role | Where | When |
 |------|-------|------|
-| Security Consultant — cloud security posture, CNAPP/CWPP, VPC-SC | **IBM** — financial sector | Oct 2026 — Present |
-| Intern — Early Associate Internship Program, cloud security & threat intelligence | **IBM** — financial sector | Oct 2025 — Sep 2026 |
+| Security Consultant — cloud security posture, CNAPP/CWPP, VPC-SC | **IBM** | Oct 2026 — Present |
+| Intern — Early Associate Internship Program, cloud security & threat intelligence | **IBM** | Oct 2025 — Sep 2026 |
 | IoT Cybersecurity Researcher — medical IoT security (Bachelor's thesis) | **IoTiCAT**, La Salle BCN | Sep 2025 — Jul 2026 |
 | Head Teaching Assistant — Digital Systems & Microprocessors (300+ students) | **La Salle BCN** | Jul 2025 — Jul 2026 |
-| Privileged Access Security — CyberArk & SailPoint PAM | **Accenture** — pharmaceutical sector | Oct 2024 — Apr 2025 |
+| Privileged Access Security — CyberArk & SailPoint PAM | **Accenture** | Oct 2024 — Apr 2025 |
 | Teaching Assistant — Programming & Digital Systems | **La Salle BCN** | Sep 2023 — Jun 2025 |
 
 🎓 **MSc in Cybersecurity** — La Salle Campus Barcelona, Universitat Ramon Llull (Oct 2026 — Jul 2027)

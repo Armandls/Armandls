@@ -1,26 +1,30 @@
-<h1 align="center">Hi, I'm Armand López 👋</h1>
+<h1 align="center">armand@github ~ $ whoami</h1>
 
 <p align="center">
-  <b>Computer Engineer · Cybersecurity</b>
+  <b>Armand López · Computer Engineer · Cybersecurity</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F7BBF&center=true&vCenter=true&width=650&lines=Computer+Engineer+%C2%B7+Cybersecurity;Security+Consultant+%40+IBM;Threat+Intelligence+%7C+CNAPP+%7C+PAM;Offensive+Security+%26+Pentesting+enthusiast;I+build+my+own+security+tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=650&lines=Computer+Engineer+%C2%B7+Cybersecurity;Security+Consultant+%40+IBM;Threat+Intelligence+%7C+CNAPP+%7C+PAM;Offensive+Security+%26+Pentesting+enthusiast;I+build+my+own+security+tooling" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armand-l%C3%B3pez-sanmart%C3%ADn-2485b5241/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2E3440" alt="LinkedIn"/>
   </a>
   <a href="mailto:armand15062003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2E3440" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Barcelona,%20Spain-3A4757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Barcelona,%20Spain-3A4757?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=2E3440" alt="Location"/>
 </p>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+<br/>
+
+### `armand@github ~ $ cat about.md`
 
 Computer Engineer focused on **cybersecurity**, with hands-on experience in **cloud security**, **threat intelligence**, **privileged access management (PAM/IAM)**, and applied research in IoT systems.
 
@@ -30,18 +34,26 @@ I'm especially interested in **offensive security, penetration testing, and red 
 - 🌍 Barcelona, Spain — On-site / Hybrid
 - 🗣️ Catalan · Spanish · English
 
+<br/>
+
 ---
 
-## 🚀 What I'm doing now
+<br/>
+
+### `armand@github ~ $ cat now.md`
 
 - 🛡️ **Security Consultant @ IBM** — cybersecurity consulting on cloud security posture, threat detection, risk management and regulatory compliance in highly regulated environments: Prisma Cloud (CNAPP/CWPP) across multi-cloud infrastructures, Google Cloud security controls with **VPC Service Controls (VPC-SC)**, and continuous monitoring with threat-prevention automation.
 - 🎓 **MSc in Cybersecurity @ La Salle Campus Barcelona** — started Oct 2026, running through Jul 2027.
 - 🔐 **Building my own infrastructure** — a self-hosted WireGuard VPN with private DNS, and a fully scripted Arch Linux + Hyprland setup with UKI and TPM2 measured boot.
 - 🎯 **Growing towards offensive security** — deepening pentesting, vulnerability analysis, malware analysis, and reverse engineering.
 
+<br/>
+
 ---
 
-## 💼 Experience
+<br/>
+
+### `armand@github ~ $ cat experience.log`
 
 | Role | Where | When |
 |------|-------|------|
@@ -56,9 +68,13 @@ I'm especially interested in **offensive security, penetration testing, and red 
 
 🎓 **BSc Computer Engineering** — La Salle Campus Barcelona, Universitat Ramon Llull (2021 — 2026)
 
+<br/>
+
 ---
 
-## 🛠️ Tech & Tools
+<br/>
+
+### `armand@github ~ $ ls tools/`
 
 **Languages**
 
@@ -105,9 +121,13 @@ I'm especially interested in **offensive security, penetration testing, and red 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+<br/>
+
 ---
 
-## 📌 Featured Projects
+<br/>
+
+### `armand@github ~ $ ls projects/`
 
 - 🔎 **[CyberScope](https://github.com/Armandls/CyberScope)** — Terminal-based security toolkit in Python: a TCP port scanner with HTML/CSV reports, an FTP honeypot that logs activity and flags connection and command floods, and a Fernet-encrypted password manager. Roadmap: SSH honeypot + advanced analytics.
 - 🔐 **[myVPN](https://github.com/Armandls/myVPN)** — Self-hosted WireGuard VPN in daily use: hub-and-spoke through my own VPS to reach my home LAN and route traffic out, with **zero ports opened on the home router** (a Raspberry Pi holds an outbound reverse tunnel). Pi-hole + Unbound for private, filtered DNS. Every goal verified with evidence, plus full setup and troubleshooting docs.
@@ -116,9 +136,13 @@ I'm especially interested in **offensive security, penetration testing, and red 
 
 > Some university work — full-methodology pentests, fault-tolerant distributed systems in C, low-level filesystems (EXT2/FAT16) — lives in private repositories. Happy to walk through any of it.
 
+<br/>
+
 ---
 
-## 🎓 Certifications
+<br/>
+
+### `armand@github ~ $ cat certs.txt`
 
 ![CyberArk PAM](https://img.shields.io/badge/CyberArk-Privileged%20Access%20Management-15597E?style=flat-square&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-Generative%20%26%20Agentic%20AI-052FAD?style=flat-square&logoColor=white)
@@ -127,15 +151,41 @@ I'm especially interested in **offensive security, penetration testing, and red 
 ![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
+<br/>
+
 ---
 
-## 📫 Let's connect
+<br/>
+
+### `armand@github ~ $ ./stats.sh`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Armandls/Armandls/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Armandls/Armandls/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Armandls/Armandls/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armandls&theme=nord&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+### `armand@github ~ $ ./contact.sh`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armand-l%C3%B3pez-sanmart%C3%ADn-2485b5241/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2E3440" alt="LinkedIn"/>
   </a>
   <a href="mailto:armand15062003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2E3440" alt="Email"/>
   </a>
 </p>

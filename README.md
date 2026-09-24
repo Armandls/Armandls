@@ -153,19 +153,6 @@ I'm especially interested in **offensive security, penetration testing, and red 
 
 <br/>
 
----
-
-<br/>
-
-### `armand@github ~ $ ./stats.sh`
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armandls&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br/>
 
 ---
 
